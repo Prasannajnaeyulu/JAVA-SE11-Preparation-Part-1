@@ -1,0 +1,3 @@
+[submodule "src/Modules-in-Java"]
+	path = src/Modules-in-Java
+	url = git@github.com:Prasannajnaeyulu/Modules-in-Java.git
